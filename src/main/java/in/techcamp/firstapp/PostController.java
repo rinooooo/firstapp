@@ -12,3 +12,4 @@ public class PostController {
         return "<h1>Hello World!</h1>";
     }
 }
+
